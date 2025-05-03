@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+transformers
+praw
+googlenews
+beautifulsoup4
+pandas
+requests
+brotli
+asyncpraw
